@@ -1,0 +1,5 @@
+C:\Users\vinicius.rigon\Documents\Visual Studio 2010\Projects\EntityFramework\EntityFramework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vinicius.rigon\Documents\Visual Studio 2010\Projects\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\vinicius.rigon\Documents\Visual Studio 2010\Projects\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\vinicius.rigon\Documents\Visual Studio 2010\Projects\EntityFramework\EntityFramework\obj\Debug\EntityFramework.dll
+C:\Users\vinicius.rigon\Documents\Visual Studio 2010\Projects\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb
